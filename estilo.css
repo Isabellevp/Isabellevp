@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+    <head>
+        <link rel="stylesheet" href="estilo.css">
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap" rel="stylesheet">
+        <title>Bolos de pote</title>
+    </head>
+        <body>
+
+            <h1>Um Doce</h1>
+
+            <div style="text-align: center;">
+                <img src="https://img.itdg.com.br/tdg/images/recipes/000/177/096/355179/355179_original.jpg?w=1200" jsaction="load:XAeZkd;" jsname="HiaYvf" class="n3VNCb" alt="Receita de bolo no pote - TudoGostoso" data-noaft="1" style="width: 585px; height: 390px; margin: 0px;">
+            </div>
+
+            <h2>
+            A ideia dos bolos de pote surgiram de um casal paulista como uma forma de vender os bolos que ficavam murchos e que não serviam para a venda pela má estética. 
+            Amar é bom, mas você já parovou nossos bolos? Venha experimentar nossas delícias!
+            </h2>
+
+            <nav>
+                <table align="center">
+                    <thead>
+                        <tr>
+                            <th>Preços e sabores:</th>
+                        </tr>
+                    </thead>
+
+                    <tbody>
+                        <tr>
+                            <td>Ninho com nutella</td>
+                            <td>R$7</td>
+                        </tr>
+
+                            <tr>
+                                <td>Prestígio</td>
+                                <td>R$6</td>
+                            </tr>
+
+                            <tr>
+                                <td>Morango</td>
+                                 <td>R$6</td>
+                            </tr>
+
+                             <tr>
+                                 <td>Morango com chocolate</td>
+                                 <td>R$6</td>
+                             </tr>
+
+                            <tr>
+                                <td>Morango com Ninho</td>
+                                 <td>R$6</td>
+                            </tr>
+                    </tbody>
+                </table>
+            </nav>
+            <div style="text-align: center;">
+                <h3>
+            <a href="https://api.whatsapp.com/send/?phone=553196531488&text&app_absent=0">
+                Faça seu pedido clicando aqui
+            </a>
+        </h3>
+        </div>
+        </body>
+</html>
